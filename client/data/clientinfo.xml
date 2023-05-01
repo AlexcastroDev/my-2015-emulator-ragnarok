@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="euc-kr" ?>
+<clientinfo>
+	<desc>Ragnarok Client Information - Taiwan Version</desc>
+	<servicetype>korea</servicetype>
+	<servertype>sakray</servertype>
+	<connection>
+		<display>Beta 1.0</display>
+		<desc>Beta 1.0</desc>
+		<balloon>Desenvolvimento</balloon>
+		<langtype>12</langtype>
+		<version>22</version>
+		<address>alexcastro.ddns.net</address>
+		<port>6900</port>
+		<aid>
+			<admin>2000001</admin>
+		</aid>
+		<loading>
+		</loading>
+	</connection>
+	<registrationweb>alexcastro.ddns.net</registrationweb>
+</clientinfo>
