@@ -2,7 +2,7 @@ repo_name: AlexcastroDev/my-2015-emulator-ragnarok
 report_id: 770c994194104a7e6641df9405955aa3
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-02T14:23:20+00:00'
+timestamp: '2024-01-05T08:12:12+00:00'
 requested_by: AlexcastroDev
 provider: github
 branch: main
@@ -16,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/AlexcastroDev/my-2015-emulator-ragnarok
   detection_source: Repo Metadata
 - name: C++
   description: Has imperative, object-oriented and generic programming features, while
@@ -26,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1049/cplusplus.png
+  detection_source_url: https://github.com/AlexcastroDev/my-2015-emulator-ragnarok
   detection_source: Repo Metadata
 - name: Lua
   description: Powerful, fast, lightweight, embeddable scripting language
@@ -35,6 +37,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/2118/128px-Lua-Logo.svg.png
+  detection_source_url: https://github.com/AlexcastroDev/my-2015-emulator-ragnarok
   detection_source: Repo Metadata
 - name: PHP
   description: A popular general-purpose scripting language that is especially suited
@@ -45,6 +48,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg
+  detection_source_url: https://github.com/AlexcastroDev/my-2015-emulator-ragnarok
   detection_source: Repo Metadata
 - name: Perl
   description: Highly capable, feature-rich programming language with over 26 years
@@ -55,6 +59,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1048/perl.png
+  detection_source_url: https://github.com/AlexcastroDev/my-2015-emulator-ragnarok
   detection_source: Repo Metadata
 - name: Python
   description: A clear and powerful object-oriented programming language, comparable
@@ -65,6 +70,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/AlexcastroDev/my-2015-emulator-ragnarok
   detection_source: Repo Metadata
 - name: SQL
   description: It is a domain-specific language used in programming
@@ -74,6 +80,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source_url: https://github.com/AlexcastroDev/my-2015-emulator-ragnarok/blob/main/server/sql-files/conversores/convert_engine_innodb.sql
   detection_source: server/sql-files/conversores/convert_engine_innodb.sql
   last_updated_by: Alex Oliveira
   last_updated_on: 2023-05-01 18:02:13.000000000 Z
@@ -85,6 +92,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/AlexcastroDev/my-2015-emulator-ragnarok
   detection_source: Repo Metadata
 - name: Visual Studio
   description: State-of-the-art tools and services that you can use to create great
@@ -95,6 +103,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Integrated Development Environment
   image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/AlexcastroDev/my-2015-emulator-ragnarok/blob/main/server/Cronus-12.sln
   detection_source: server/Cronus-12.sln
   last_updated_by: Alex Oliveira
   last_updated_on: 2023-05-01 18:02:13.000000000 Z
@@ -107,4 +116,5 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/AlexcastroDev/my-2015-emulator-ragnarok
   detection_source: Repo Metadata
